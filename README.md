@@ -1,2 +1,3 @@
 # cfangular
-ColdFusion and AngularJS
+ColdFusion and AngularJS Cookbook
+
